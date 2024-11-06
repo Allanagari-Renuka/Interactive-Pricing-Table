@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.pricing-card {
+    transition: transform 0.3s;
+    border: 1px solid #ddd;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+.pricing-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 6px 12px rgba(0,0,0,0.15);
+}
+
+.pricing-card.popular {
+    background-color: #297781;
+    border: 2px solid #007bff;
+}
+
+.card-header {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.price {
+    font-size: 2em;
+    color: #007bff;
+}
+
+.price span {
+    font-size: 0.5em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 5px 0;
+}
