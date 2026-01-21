@@ -692,9 +692,3 @@ If you found this project helpful:
 - [CSS Guidelines](https://cssguidelin.es/)
 - [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Web Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
-
----
-
-<div align="center">
-**Live Demo:** [interactive-pricing-table.vercel.app](https://interactive-pricing-table.vercel.app)
-</div>
